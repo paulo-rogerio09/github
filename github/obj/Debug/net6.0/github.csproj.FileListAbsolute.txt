@@ -1,0 +1,15 @@
+C:\Users\2022102020060\source\repos\github\github\bin\Debug\net6.0\github.exe
+C:\Users\2022102020060\source\repos\github\github\bin\Debug\net6.0\github.deps.json
+C:\Users\2022102020060\source\repos\github\github\bin\Debug\net6.0\github.runtimeconfig.json
+C:\Users\2022102020060\source\repos\github\github\bin\Debug\net6.0\github.dll
+C:\Users\2022102020060\source\repos\github\github\bin\Debug\net6.0\github.pdb
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.csproj.AssemblyReference.cache
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.AssemblyInfoInputs.cache
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.AssemblyInfo.cs
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.csproj.CoreCompileInputs.cache
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.dll
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\refint\github.dll
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.pdb
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\github.genruntimeconfig.cache
+C:\Users\2022102020060\source\repos\github\github\obj\Debug\net6.0\ref\github.dll
